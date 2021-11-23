@@ -5,7 +5,7 @@
 
 # Setup  
 For windows set your azure connection string in project folder cmd using   
-setx AZURE_STORAGE_CONNECTION_STRING "/<yourconnectionstring/>"
+setx AZURE_STORAGE_CONNECTION_STRING "yourconnectionstring"
 
 For macOS or Linux please follow: https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-python  
   
